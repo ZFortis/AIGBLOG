@@ -21,9 +21,9 @@ export const ARTWORK_DATA: ArtPiece[] = [
   {
     id: '1',
     title: 'Cybernetic Miku',
-    imageUrl: 'https://picsum.photos/600/800?random=1', // 👈 Replace this with your image / 替换这里
-    width: 600,
-    height: 800,
+    imageUrl: '.\public\images\HK 416 A8.png', // 👈 Replace this with your image / 替换这里
+    width: 2243,
+    height: 1198,
     prompt: 'Hatsune Miku, cybernetic upgrades, glowing neon circuitry, futuristic tokyo background, rain, cinematic lighting, masterpiece, 8k, extremely detailed eyes',
     negativePrompt: 'low quality, blurry, distorted hands, extra fingers, mutation, bad anatomy',
     model: 'Niji V6',
