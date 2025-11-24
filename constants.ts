@@ -21,7 +21,7 @@ export const ARTWORK_DATA: ArtPiece[] = [
   {
     id: '1',
     title: 'Cybernetic Miku',
-    imageUrl: '.\public\images\HK 416 A8.png', // 👈 Replace this with your image / 替换这里
+    imageUrl: './public/images/HK416A8.png', // 👈 Replace this with your image / 替换这里
     width: 2243,
     height: 1198,
     prompt: 'Hatsune Miku, cybernetic upgrades, glowing neon circuitry, futuristic tokyo background, rain, cinematic lighting, masterpiece, 8k, extremely detailed eyes',
